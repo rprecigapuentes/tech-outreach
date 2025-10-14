@@ -15,7 +15,7 @@ Each presentation focuses on explaining complex engineering topics in a clear, s
 Delivered at *Universidad Nacional de Colombia* for the course *Verificación de Sistemas Digitales (2025-I)*.
 
 **Slides:**  
-[View presentation (PDF)](https://drive.google.com/your-link-here)
+[View presentation (PDF)](./2025_IA_Local_TinyML/slides.pdf)
 
 ---
 
