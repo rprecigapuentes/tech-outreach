@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This one-hour educational presentation explores how modern hardware executes artificial intelligence locally — without relying on the cloud.  
 The talk guides the audience through the evolution of *on-device AI*, from the mathematical principles of neural networks to specialized computing architectures like NPUs, and finally to TinyML systems capable of performing inference on microcontrollers.
@@ -15,7 +15,7 @@ Delivered as part of the course **Verificación de Sistemas Digitales (2025-I)**
 
 ---
 
-## 🧩 Structure
+## Structure
 
 1. **Introduction**  
    Why AI is increasingly executed locally: privacy, latency, and energy efficiency as key motivators.
@@ -54,7 +54,7 @@ Delivered as part of the course **Verificación de Sistemas Digitales (2025-I)**
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - Local AI execution improves privacy, latency, and energy efficiency.  
 - Quantization and hardware specialization drive the next wave of embedded intelligence.  
@@ -63,7 +63,7 @@ Delivered as part of the course **Verificación de Sistemas Digitales (2025-I)**
 
 ---
 
-## 📎 Resources
+## Resources
 
 - Presentation slides: [View PDF](./slides.pdf)  
 - References include IBM, ARM, Qualcomm, Samsung Semiconductor, IEEE 754, TinyML Foundation, and various academic and industrial whitepapers.
