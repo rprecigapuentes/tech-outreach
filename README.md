@@ -43,6 +43,8 @@ presentations/
  ├── 2025_IA_Local_TinyML/
  │    ├── slides.pdf
  │    └── README.md
+ ├── 2025_Tecnologias_Cuanticas/
+ │    └── README.md
 ```
 
 Each folder includes its corresponding presentation and a short README describing the topic and context.
