@@ -19,6 +19,13 @@ Delivered at *Universidad Nacional de Colombia* for the course *Verificación de
 
 ---
 
+## 2025 — Quantum Technologies Explained
+Short educational video series introducing key ideas of quantum physics and computation through accessible storytelling.  
+Created in collaboration with **Luis Guillermo Vaca Rincón** for the course *Tecnologías Cuánticas (UNAL 2025-I).*  
+[View details](./2025_Tecnologias_Cuanticas/README.md)
+
+---
+
 ## Structure
 
 ```
