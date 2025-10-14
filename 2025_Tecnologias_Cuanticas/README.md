@@ -59,6 +59,7 @@ Reflects on how both science and ancestral wisdom suggest the universe is deeply
 
 **Course:** *Tecnologías Cuánticas — Universidad Nacional de Colombia (2025-I)*  
 **Language:** Spanish  
-**Format:** Educational short videos (≈1 minute each)  
+**Format:** Educational short videos (≈2 minute each)  
 **Collaboration:** QuantumColombia · UNAL  
 **Project Type:** Science Outreach & Education
+
