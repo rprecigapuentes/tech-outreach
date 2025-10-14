@@ -23,7 +23,7 @@ Delivered at *Universidad Nacional de Colombia* for the course *Verificación de
 
 **Summary**  
 A short-form educational video series designed to make quantum physics accessible through storytelling and real-world analogies.  
-In under a minute, each episode unpacks complex ideas —from **quantum entanglement** and **vacuum energy**, to **wave–particle duality**, **quantum metrology**, and even the **atomic origins of fireworks’ colors**— showing how quantum principles quietly shape the world around us.  
+In under two minutes, each episode unpacks complex ideas —from **quantum entanglement** and **vacuum energy**, to **wave–particle duality**, **quantum metrology**, and even the **atomic origins of fireworks’ colors**— showing how quantum principles quietly shape the world around us.  
 The project highlights how modern physics is not distant or abstract, but deeply woven into everyday life.
 
 📊 *As of October 14, 2025, the videos had reached 12,117 total views on TikTok*, reflecting genuine public curiosity for science explained with creativity and clarity.
