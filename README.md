@@ -9,7 +9,7 @@ Each presentation focuses on explaining complex engineering topics in a clear, s
 ## 🧠 2025 — *Embedded Intelligence: From Neural Hardware to TinyML*
 
 **Summary:**  
-30-minute educational talk introducing local AI processing, from neural network fundamentals to hardware acceleration (Apple Neural Engine, Google Tensor, Samsung Exynos, etc.), and concluding with TinyML and energy-efficient computing.  
+One-hour educational talk introducing local AI processing, from neural network fundamentals to hardware acceleration (Apple Neural Engine, Google Tensor, Samsung Exynos, etc.), and concluding with TinyML and energy-efficient computing.  
 
 **Context:**  
 Delivered at *Universidad Nacional de Colombia* for the course *Verificación de Sistemas Digitales (2025-I)*.
