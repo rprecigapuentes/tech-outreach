@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project is an educational video series created for the course **Tecnologías Cuánticas (2025-I)** at **Universidad Nacional de Colombia**.  
 Each short video explains a fundamental concept of quantum physics or computation through creative, accessible storytelling aimed at a general audience.  
@@ -14,7 +14,7 @@ The initiative merges science communication, visual media, and human-centered ed
 
 ---
 
-## 🎥 Videos
+## Videos
 
 ### 1. [¿Nos estamos ahogando en datos?](https://www.tiktok.com/@luis_v_r_1503/video/7510661864955645240)
 Explores the environmental and computational costs of massive AI systems, highlighting the growing data demand and introducing **quantum computing** as a sustainable alternative to traditional architectures.
@@ -48,7 +48,7 @@ Reflects on how both science and ancestral wisdom suggest the universe is deeply
 
 ---
 
-## 🧠 Key Themes
+## Key Themes
 
 - Quantum mechanics in daily life  
 - Communication between ancestral knowledge and modern physics  
@@ -62,4 +62,5 @@ Reflects on how both science and ancestral wisdom suggest the universe is deeply
 **Format:** Educational short videos (≈2 minute each)  
 **Collaboration:** QuantumColombia · UNAL  
 **Project Type:** Science Outreach & Education
+
 
